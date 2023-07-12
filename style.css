@@ -1,0 +1,148 @@
+/* Podstawowe style */
+
+body {
+  margin: 0 auto;
+	width: 940 px;
+	padding-top: 100px;
+	font-family: 'Segoe UI', Verdana, Geneva, sans-sefir;
+	background: #ffffff;
+	font-size: 25px;
+	line-height: 28px;
+	background-attachment: scroll;
+}
+
+p {
+	margin: 30px;
+	width: 300px;
+	padding: 10px 0 10px;
+	text-align : center;
+}
+
+p2 {
+	margin: 30px;
+	width: 300px;
+	padding: 10px 0 10px;
+	text-align : center;
+}
+
+h5  {
+	margin: 30px;
+	width: 300px;
+	padding: 10px 0 10px;
+	text-align : center;
+}
+
+h6 {
+	margin: 30px;
+	width: 300px;
+	padding: 10px 0 10px;
+	text-align : center;
+}
+
+a {
+	outline: none !important;
+}
+
+/* Naglowek */
+#header {
+	background: #000000;
+	padding: 0px 0 px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;	
+
+}
+
+#button {
+	float: right;
+	width:  3px; 
+	padding: 20 px 0 16;
+	text-align:center;
+	margin: 0px 0px;
+	background: #ffffff;
+	color:#000000;
+	font-weight: bold;
+	font-family: 'Segoe UI', Verdana, Geneva, sans-sefir;
+	border: radius 10px;
+	position: absolute 10px;
+	
+}
+
+#logo {
+	float:left;
+	padding: 10px 0 30px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	margin: 5px 10px;
+	line-height: 24px;
+	font-size: 20px;
+	}
+
+#logo img {
+	float: left;
+	display: block;
+}
+
+.select-menu {
+	display: none;
+}
+
+#header nav ul {
+	float: light;
+	margin: 10px 0px 10px;
+	text-align: center;
+}
+
+#header nav li {
+	list-style-type: none;
+	float: left;
+	margin-left: 120px;
+}
+
+#header a {
+	color: #fff;
+	font-size: 17px;
+}
+
+#header a:hover, #header .active-menu-item a {
+	text-decoration: none;
+	color: #fdc702;
+
+}
+
+#copyright {
+	background: #c0c0c0;
+	padding: 20px 0 0;
+	height: 80px;
+	font-size: 15px;
+	line-height: 62px;
+	color: #000000;
+	font-size: 15px;
+	text-align : center;
+}
+
+
+
+
+/* Komentarz 
+-->ul {
+	background: #c0c0c0;
+	margin: 30px;
+	width: 300px;
+	padding: 10px 0 10px;
+}
+-->
+*/
+
+
+
+
+
+
+
+
+
+
